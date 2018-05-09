@@ -7,6 +7,5 @@ description: >
 tags: Blogging
 ---
 
-# 제목
 
 내용
